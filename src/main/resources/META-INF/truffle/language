@@ -1,0 +1,9 @@
+language1.characterMimeType.0=application/x-example
+language1.className=example.ExampleLang
+language1.defaultMimeType=application/x-example
+language1.id=example
+language1.implementationName=
+language1.interactive=true
+language1.internal=false
+language1.name=Effekt
+language1.version=inherit
